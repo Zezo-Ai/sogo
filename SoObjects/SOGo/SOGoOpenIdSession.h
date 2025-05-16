@@ -32,6 +32,7 @@
 @class NSMutableDictionary;
 @class NSURL;
 @class NSJSONSerialization;
+@class NSFileHandle;
 
 
 @interface SOGoOpenIdSession : SOGoObject
